@@ -1,0 +1,9 @@
+body {
+  background-color: darkslategrey;
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
